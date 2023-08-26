@@ -1,2 +1,2 @@
-# HELIA Landing
-- Autor: J. Ortega
+# Landing preview
+- Curso: Apps web
